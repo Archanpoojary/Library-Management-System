@@ -1,0 +1,32 @@
+.book{
+     display: inline-block;
+   justify-content: space-evenly; 
+   background-color: grey;
+   padding: 10px 0px;
+   width: 80%;
+   height: 235px;
+   margin: 20px 0px;
+   padding: 10px;
+   border-radius: 4px;
+}
+.booklst{
+    align-items: center;
+    margin: 0px 180px;
+}
+.book h4{
+    height: 20px;
+}
+
+.book_List{
+    display: flex;
+}
+.image{
+    background-color:grey;
+    margin-top: 20px; 
+    padding: 20px 10px;
+    width: 150px;
+    height: 215px;
+}
+.book{
+    text-align: start;
+}

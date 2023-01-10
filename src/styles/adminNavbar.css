@@ -1,0 +1,38 @@
+.adNavbar{
+    background-color: blue;
+}
+.sectionNav{
+    background-color:rgb(20, 217, 220);
+    display: flex;
+    justify-content: space-evenly;
+}
+.navi h1{
+    position: relative;
+    left: -100%;
+}
+.sectionNav .nav_links{
+   
+    padding-top: 30px;
+    margin-right: -280px;
+}
+.link8{
+    margin-left: 50px;
+    text-decoration: none;
+}
+.link7{
+    margin-left: 50px;
+    text-decoration: none;
+}
+.link6{
+    margin-left: 50px;
+    text-decoration: none;
+}
+.link5{
+    margin-left: 50px;
+    text-decoration: none;
+}
+.link9{
+     margin-left: 50px;
+    text-decoration: none;
+}
+

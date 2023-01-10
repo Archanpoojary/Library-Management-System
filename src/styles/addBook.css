@@ -1,0 +1,33 @@
+.AddBook .form input{
+    width: 500px;
+    height: 50px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 7px;
+    margin-left: 10%;
+}
+.AddBook .form textarea{
+     width: 500px;
+     border: 1px solid black;
+    border-radius: 7px;
+    margin-left: 10%;
+}
+.AddBook{
+    background-image: url('https://e0.pxfuel.com/wallpapers/676/976/desktop-wallpaper-books-background-open-notebook-thumbnail.jpg');
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    margin-top: 0;
+    
+}
+
+.AddBook .form button{
+    width: 100px;
+    margin-left: 10%;
+    padding: 10px;
+    border-radius: 5px;
+}
+.AddBook .form button:hover{
+    color: black;
+    background-color: crimson;
+}

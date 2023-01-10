@@ -1,0 +1,43 @@
+.landingpage{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Statsbiblioteket_l%C3%A6sesalen-2.jpg/1280px-Statsbiblioteket_l%C3%A6sesalen-2.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-color: aquamarine;
+    
+}
+.selectLoginType-container{
+    background-color: white;
+    position:relative;
+     left: 350px; 
+     bottom: -100px;
+     width: 900px;
+     height: 400px;
+     background-image: conic-gradient(from -45deg, rgb(242, 34, 117),white);
+}
+.selectLoginType-container h1{
+    margin-bottom: 20%;
+    padding-top: 5%;
+}
+.selectLoginType-container .btn{
+    /* padding-top: 150px;
+    padding-right: 350px; */
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: x-large;
+    color: rgb(174, 0, 255);
+    border: 2px solid black;
+    margin-top: 20%;
+    border-radius: 7px;
+}
+.selectLoginType-container .btn1{
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: x-large;
+    color: crimson;
+    margin-left: 25%;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+
+
+
