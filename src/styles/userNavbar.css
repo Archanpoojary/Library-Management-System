@@ -1,0 +1,30 @@
+.usrNavbar{
+    background-color: blue;
+    background-color:rgb(20, 217, 220);
+    display: flex;
+    justify-content: space-evenly;
+}
+/* .sectionNav{
+    
+} */
+.usrNavbar h1{
+    position: relative;
+    left: -20%;
+}
+.usrNavbar .nav_links{
+   
+    padding-top: 30px;
+    margin-right: -280px;
+}
+.link10{
+    margin-left: 50px;
+    text-decoration: none;
+}
+.link11{
+    margin-left: 50px;
+    text-decoration: none;
+}
+.link12{
+    margin-left: 50px;
+    text-decoration: none;
+}

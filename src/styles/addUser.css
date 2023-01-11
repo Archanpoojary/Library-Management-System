@@ -1,4 +1,4 @@
-.AddBook .form input{
+.addUser .form input{
     width: 500px;
     height: 50px;
     margin-bottom: 10px;
@@ -6,31 +6,33 @@
     border-radius: 7px;
     margin-left: 10%;
 }
-.AddBook .form textarea{
+.addUser .form textarea{
      width: 500px;
      border: 1px solid black;
     border-radius: 7px;
     margin-left: 10%;
 }
-.AddBook{
-    background-image: url('https://e0.pxfuel.com/wallpapers/676/976/desktop-wallpaper-books-background-open-notebook-thumbnail.jpg');
+.addUser{
+    background-image: url('https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg');
     background-size: cover;
-    height: 110vh;
+    height: 100vh;
     position: relative;
-    margin-top: -21px;
+    margin-top: 0;
+    padding-top: 20px;
     
 }
-.AddBook h1{
-    color:darkseagreen
-}
 
-.AddBook .form button{
+.addUser .form button{
     width: 100px;
     margin-left: 10%;
     padding: 10px;
     border-radius: 5px;
 }
-.AddBook .form button:hover{
+.addUser .form button:hover{
     color: black;
     background-color: crimson;
+}
+.addUser .form{
+    padding-top: 40px;
+    margin-left: -10%;
 }

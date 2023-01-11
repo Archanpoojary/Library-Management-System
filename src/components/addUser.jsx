@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import '../styles/addUser.css'
 const AddUser = () => {
     let [name,setName]=useState("")
     let [email,setEmail]=useState("")
